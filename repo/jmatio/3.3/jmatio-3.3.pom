@@ -8,7 +8,7 @@
     <name>JmatIO</name>
     <groupId>com</groupId>
     <artifactId>jmatio</artifactId>
-    <version>0.3</version>
+    <version>3.3</version>
 
     <packaging>jar</packaging>
 
